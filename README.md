@@ -18,6 +18,15 @@
 
 ---
 
+## 🤝 Вклад в проект
+
+Нашли баг или есть идея по улучшению?
+
+- Создайте **[Issue](https://github.com/matb22/clicker_for_foxhole/issues)**
+- Отправьте **[Pull Request](https://github.com/matb22/clicker_for_foxhole/pulls)**
+
+---
+
 ## ✨ Возможности
 
 - 🖱️ **Удержание ЛКМ** — просто зажимает кнопку, не спамит кликами
